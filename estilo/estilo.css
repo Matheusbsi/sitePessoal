@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    position: relative;
+    text-align: center;
+    font-size: 120%;
+    background-color: rgba(194, 24, 24, 0.863);
+    color: rgb(228, 220, 220);
+}
+#cabecalho{
+    padding: 10px;
+}
+
+h2{
+    position: relative;
+    letter-spacing: 15px;
+    bottom: 10px;
+    font-size: 95%;
+    color: rgb(165, 164, 164);
+}
+
+main{
+    margin: 0% auto;
+    background-color: rgb(87, 20, 20);
+}
+.sites{
+    text-align: center;
+    padding: 10px;
+    color: rgb(228, 220, 220);
+}
+img{
+    width: 400px;
+    height: 350px;
+    object-fit: fill;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3{
+    text-decoration: underline;
+}
